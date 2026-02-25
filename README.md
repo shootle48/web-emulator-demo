@@ -23,7 +23,7 @@ Ready to run your own arcade?
 **Prerequisites:** Ensure you have Node.js and a package manager (`npm`, `yarn`, or `pnpm`) installed.
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/react-nes-emulator.git
+git clone https://github.com/shootle48/react-nes-emulator.git
 cd react-nes-emulator
 ```
 **2. Install dependencies:**
